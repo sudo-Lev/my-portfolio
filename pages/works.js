@@ -58,20 +58,21 @@ const Works = () => {
           </Section>
 
           <Section>
-            <WorkGridItem id='4' title='Okoshko.ua' thumbnail={thumbOkoshko}>
+            <WorkGridItem href='okoshko' id='4' title='Okoshko.ua' thumbnail={thumbOkoshko}>
               Landing page for window sales with built-in calculator for the
               user
             </WorkGridItem>
           </Section>
 
           <Section>
-            <WorkGridItem id='4' title='Vet.dp.ua' thumbnail={thumbVetdp}>
+            <WorkGridItem href='vetdpua' id='4' title='Vet.dp.ua' thumbnail={thumbVetdp}>
               Information site on veterinary services in Ukraine
             </WorkGridItem>
           </Section>
 
           <Section>
             <WorkGridItem
+              href='wincalc'
               id='5'
               title='Windows calculator'
               thumbnail={thumbWinCacl}

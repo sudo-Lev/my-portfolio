@@ -18,7 +18,7 @@ export const Title = ({ children }) => (
 )
 
 export const WorkImage = ({ src, alt }) => (
-  <Image height={500} width={500} borderRadius='lg' w='full' src={src} alt={alt} mb={4} />
+  <Image height={500} width={500} borderRadius='lg' w='full' src={src} alt={alt} />
 )
 
 export const Meta = ({ children }) => (

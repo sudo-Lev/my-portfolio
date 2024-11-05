@@ -67,7 +67,7 @@ const Page = () => {
           <Paragraph>
             Hi. My name is Lev and I&apos;m a front-end developer!
             <br />
-            I&apos;ve been working as a JavaScript developer for more than 3
+            I&apos;ve been working as a JavaScript developer for more than 4
             years now and I&apos;ve tried the most popular frontend frameworks
             such as React, Angular, and Vuejs. And although Vuejs is the main
             one for me to switch to React or Angular for me will not be

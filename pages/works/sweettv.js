@@ -29,7 +29,23 @@ const Work = () => {
                         <span>Vue 3, Pinia, Laravel, Angular.js</span>
                     </ListItem>
                 </List>
-                <WorkImage alt='scheidt&bachmann' src='/images/works/sweettv.webp' />
+                <WorkImage alt='sweettv' src='/images/works/sweettv.webp' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet1.jpeg' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet2.jpeg' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet3.jpeg' />
+                <br />  
+                <WorkImage alt='sweettv' src='/images/works/sweet4.jpeg' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet5.jpeg' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet6.jpeg' />
+                <br />  
+                <WorkImage alt='sweettv' src='/images/works/sweet7.jpeg' />
+                <br />
+                <WorkImage alt='sweettv' src='/images/works/sweet8.jpeg' />
             </Container>
         </Layout>
     )
